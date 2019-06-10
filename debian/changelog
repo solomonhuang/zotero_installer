@@ -1,3 +1,9 @@
+zotero-standalone (5.0.60-ubuntu2) bionic; urgency=medium
+
+  * Update for 5.0.66
+
+ -- Solomon Huang <kaichanh@gmail.com>  Mon, 10 Jun 2019 19:43:55 +0800
+
 zotero-standalone (5.0.60-ubuntu1) bionic; urgency=medium
 
   * Update for 5.0.60
